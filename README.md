@@ -1,6 +1,8 @@
 # Weather-App
 
 A simple weather app to find out an areas temperature, conditions and more...
+
+
 Utilizing the https://openweathermap.org API
 
 ![Weather-App](/src/img/Example.png)
